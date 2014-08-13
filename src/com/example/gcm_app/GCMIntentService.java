@@ -1,4 +1,4 @@
-package com.example.gsm_app;
+package com.example.gcm_app;
 
 import android.content.Context;
 import android.content.Intent;
